@@ -1,0 +1,7 @@
+Portable emacs configuration in order to replicate my Emacs environment quickly
+
+Set up with GNU Emacs
+
+Designed to support LaTeX, R and Python at present.
+
+Currently configured for Windows 7 but compatability with Linux is planned.
